@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8db7bc7`](https://github.com/stdlib-js/stdlib/commit/8db7bc7046b07a7b5ad04d203a49b8cf75aa7f71) - **docs:** drop redundant \"elements\" qualifier [(#12922)](https://github.com/stdlib-js/stdlib/pull/12922) _(by Philipp Burckhardt)_
 -   [`47f53b3`](https://github.com/stdlib-js/stdlib/commit/47f53b3d83fe141c4befef6bce23bd37b4961026) - **feat:** add `blas/ext/base/dindex-of-truthy` [(#12910)](https://github.com/stdlib-js/stdlib/pull/12910) _(by Muhammad Haris, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
